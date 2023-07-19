@@ -50,5 +50,5 @@ This project utilizes the use of appending HTML pages.
   - Styles.css
   - Contains centering and styling for html list features
   - Contains media queries
-  - Two Javascript Page * Contains: * Variables, including arrays with object * Event listeners * if/else if statements * For Loops * Functions * Local Storage set     and get.
+  - Javascript Page * Contains: * Variables, * Event listeners * if/else if statements * For Loops * Functions .
 # End
